@@ -1,1 +1,2 @@
-Usando o git
+Aprendendo a usar o git
+Uma alteração 
