@@ -1,2 +1,1 @@
-Aprendendo a usar o git
-aqui foi feita uma alteração 
+Neste projeto eu vejo um video da Rafaella Ballerini onde ela ensina a mexer no Git.
